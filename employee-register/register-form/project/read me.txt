@@ -1,0 +1,3 @@
+download the code.
+cd to project folder(Node.js-Expess-MongoDB-CRUD/project)
+ run npm install
